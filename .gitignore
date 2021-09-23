@@ -1,0 +1,4 @@
+*.config
+*.tmp
+*.bak
+cache/
