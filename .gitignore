@@ -4,3 +4,4 @@
 cache/
 *.swp
 *.swn
+.DS_Store
