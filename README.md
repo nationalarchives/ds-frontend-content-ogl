@@ -1,6 +1,6 @@
-# TNA Front end content
+# This is no longer the repo for OGL - you can find the current one at [ds-www-open-government-licence](https://github.com/nationalarchives/ds-www-open-government-licence)
 
-This is no longer the repo for OGL - you can find the current one at [ds-www-open-government-licence](https://github.com/nationalarchives/ds-www-open-government-licence)
+# TNA Front end content
 
 Contents:
  - Open Government License for public sector information (open-government-licence)
