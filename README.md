@@ -1,5 +1,7 @@
 # TNA Front end content
 
+This is no longer the repo for OGL - you can find the current one at [ds-www-open-government-licence](https://github.com/nationalarchives/ds-www-open-government-licence)
+
 Contents:
  - Open Government License for public sector information (open-government-licence)
  - Trwydded Llywodraeth Agored ar gyfer gwybodaeth y sector cyhoeddus (open-government-licence-cymraeg)
