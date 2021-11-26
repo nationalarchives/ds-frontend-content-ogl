@@ -2,3 +2,6 @@
 *.tmp
 *.bak
 cache/
+*.swp
+*.swn
+.DS_Store
